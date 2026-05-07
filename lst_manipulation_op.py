@@ -9,4 +9,5 @@ print(output1)
 output = [1,2,3,4,5,6,[7,8,9,10]]
 output1 = [1,2,3,4,5,6,7,8,9,10]
 
+#Last Element from list
 print("Last element of output is ", lst[-1])
