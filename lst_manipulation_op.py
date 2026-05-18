@@ -11,3 +11,4 @@ output1 = [1,2,3,4,5,6,7,8,9,10]
 
 #Last Element from list
 print("Last element of output is ", lst[-1])
+print("Last element of output1 is ", lst1[::-1][0])

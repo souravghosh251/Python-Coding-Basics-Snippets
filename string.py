@@ -7,4 +7,4 @@ print('navin '*10)
 
 print('navin' 'telusko')
 # O/p : navintelusko
-
+print(len('navintelusko'))
